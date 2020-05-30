@@ -1,4 +1,4 @@
-# todolist-js 📌
+# TODO-List 📌
 Simple todolist in html-css-js   
 **(CRUD - saving to localStorage)**  
 
